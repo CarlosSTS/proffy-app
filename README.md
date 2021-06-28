@@ -12,9 +12,9 @@ O app contém os seguintes módulos
 
 ## Páginas do app
 ![Foto do App apresentação](https://github.com/CarlosSTS/NLW2/blob/master/assets/presentation.jpg)
-![Foto do App darAulas](https://github.com/CarlosSTS/NLW2/blob/master/assets/presentation.jpg)
+![Foto do App darAulas](https://github.com/CarlosSTS/NLW2/blob/master/assets/giveClasses.jpg)
 ![Foto do App dashboard](https://github.com/CarlosSTS/NLW2/blob/master/assets/dashboard.jpg)
-![Foto do App favoritos](https://github.com/CarlosSTS/NLW2/blob/master/assets/favorites.png)
+![Foto do App favoritos](https://github.com/CarlosSTS/NLW2/blob/master/assets/favorites.jpg)
 
 ## MOBILE
 RODANDO O PROJETO MOBILE
