@@ -1,4 +1,4 @@
-# NL2 
+# NLW2 
 1. A versão mobile do projeto Proffy desenvolvido no NLW2.
 2. O aplicativo é basicamente uma plataforma para listar professores e total de conexões além de salvar os professores favoritos no Storage do celular do usuário.
 
@@ -11,10 +11,10 @@ O app contém os seguintes módulos
 * uma tela de favoritos que mostrar os professores favoritados pelo usuário com opção de entrar em contato.
 
 ## Páginas do app
-![Foto do App apresentação](https://github.com/CarlosSTS/NL2/blob/master/assets/presentation.jpg)
-![Foto do App darAulas](https://github.com/CarlosSTS/NL2/blob/master/assets/presentation.jpg)
-![Foto do App dashboard](https://github.com/CarlosSTS/NL2/blob/master/assets/dashboard.jpg)
-![Foto do App favoritos](https://github.com/CarlosSTS/NL2/blob/master/assets/favorites.png)
+![Foto do App apresentação](https://github.com/CarlosSTS/NLW2/blob/master/assets/presentation.jpg)
+![Foto do App darAulas](https://github.com/CarlosSTS/NLW2/blob/master/assets/presentation.jpg)
+![Foto do App dashboard](https://github.com/CarlosSTS/NLW2/blob/master/assets/dashboard.jpg)
+![Foto do App favoritos](https://github.com/CarlosSTS/NLW2/blob/master/assets/favorites.png)
 
 ## MOBILE
 RODANDO O PROJETO MOBILE
