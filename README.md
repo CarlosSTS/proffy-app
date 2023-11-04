@@ -1,4 +1,4 @@
-# NLW2 
+# Proffy-app 
 1. A versão mobile do projeto Proffy desenvolvido no NLW2.
 2. O aplicativo é basicamente uma plataforma para listar professores e o total de conexões além de salvar os professores favoritos no Storage do dispositivo do usuário.
 
