@@ -15,15 +15,15 @@ O app contém os seguintes módulos
 
 <table>
   <tr>
-<td><img src="https://github.com/CarlosSTS/NLW2/blob/master/assets/presentation.png" alt="Foto do App apresentação" width="360" /></td>
-<td><img src="https://github.com/CarlosSTS/NLW2/blob/master/assets/giveClasses.png" alt="Foto do App dar aulas" width="360" /></td>
+<td><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-web-7fbff.appspot.com/o/github_projects%2Fproffy-app%2Fpresentation.png?alt=media&token=38e96c4e-a0ad-4605-87fa-9f50746bdd32" alt="Foto do App apresentação" width="360" /></td>
+<td><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-web-7fbff.appspot.com/o/github_projects%2Fproffy-app%2FgiveClasses.png?alt=media&token=1d982c05-1b2e-4cfc-bc8b-f931534bf291" alt="Foto do App dar aulas" width="360" /></td>
 </tr>
 </table>
 
 <table>
   <tr>
-<td><img src="https://github.com/CarlosSTS/NLW2/blob/master/assets/dashboard.png" alt="Foto do App dashboard" width="360" /></td>
-<td><img src="https://github.com/CarlosSTS/NLW2/blob/master/assets/favorites.png" alt="Foto do App favoritos" width="360" /></td>
+<td><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-web-7fbff.appspot.com/o/github_projects%2Fproffy-app%2Fdashboard.png?alt=media&token=d7156318-cb12-45ae-8f17-e751af48b3b3" alt="Foto do App dashboard" width="360" /></td>
+<td><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-web-7fbff.appspot.com/o/github_projects%2Fproffy-app%2Ffavorites.png?alt=media&token=e25f9763-092e-4fd6-8809-4c8a3093e49b" alt="Foto do App favoritos" width="360" /></td>
 </tr>
 </table>
 
@@ -31,7 +31,7 @@ O app contém os seguintes módulos
 
 RODANDO O PROJETO MOBILE
 
-- yarn install => para instalar Dependências do projeto
+- yarn install => para instalar dependências do projeto
 - yarn start => para inicializar o projeto
 - yarn android => para executar o projeto no emulador android
 - yarn ios => para executar no emulador iOS
